@@ -1,0 +1,19 @@
+[package]
+name = "snooker"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+chrono = { version = "0.4.31", features = ["serde"] }
+clap = { version = "4.4.8", features = ["derive"] }
+dotenv = "0.15.0"
+# google-calendar = "0.7.0"
+google-calendar = { path = "./deps/third-party-api-clients/google/calendar" }
+reqwest = { version = "0.11.22", features = ["blocking"] }
+serde = "1.0.193"
+serde_json = "1.0.108"
+serde_path_to_error = "0.1.15"
+serde_with = "3.4.0"
+tokio = "1.34.0"

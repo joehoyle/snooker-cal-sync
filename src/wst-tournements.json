@@ -1,0 +1,1087 @@
+{
+	"data": [
+		{
+			"type": "tournament",
+			"id": "d0d66aa5-a0af-496a-8bf2-56744eb85748",
+			"attributes": {
+				"name": "BetVictor Championship League Snooker 2023",
+				"startDate": "2023-06-26",
+				"endDate": "2023-07-14",
+				"venue": null,
+				"city": "Leicester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "c2d40230-ab0e-11ee-a5f6-0f8f0482d171.png",
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "https://championshipleaguesnooker.co.uk/",
+				"matchCount": 192
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/d0d66aa5-a0af-496a-8bf2-56744eb85748"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "6ceb5dcf-31e9-49f4-b96f-7ea63a1a2360",
+			"attributes": {
+				"name": "BetVictor Championship League Snooker 2023 - Stage Two & Three",
+				"startDate": "2023-07-17",
+				"endDate": "2023-07-21",
+				"venue": null,
+				"city": "Leicester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "90424ca0-ab0e-11ee-a5f6-0f8f0482d171.png",
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "https://championshipleaguesnooker.co.uk/",
+				"matchCount": 61
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/6ceb5dcf-31e9-49f4-b96f-7ea63a1a2360"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "a549802d-0aef-4575-a691-1816e86a8516",
+			"attributes": {
+				"name": "BetVictor European Masters 2023 Qualifiers",
+				"startDate": "2023-07-25",
+				"endDate": "2023-07-29",
+				"venue": null,
+				"city": "Leicester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": null,
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "betvictoreuropeanmasters",
+				"matchCount": 56
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/a549802d-0aef-4575-a691-1816e86a8516"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "578cb33d-34b5-4bdb-9200-2f47ee3e8b96",
+			"attributes": {
+				"name": "Cazoo British Open 2023 Qualifiers",
+				"startDate": "2023-08-14",
+				"endDate": "2023-08-19",
+				"venue": null,
+				"city": "Leicester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": null,
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "cazoobritishopen",
+				"matchCount": 48
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/578cb33d-34b5-4bdb-9200-2f47ee3e8b96"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "285819b4-20bd-401e-9757-789f5f5e5667",
+			"attributes": {
+				"name": "BetVictor European Masters 2023 ",
+				"startDate": "2023-08-22",
+				"endDate": "2023-08-27",
+				"venue": null,
+				"city": "Nuremberg",
+				"country": "Germany ",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "307af670-abb1-11ee-a15f-ab5903cf6c94.jpg",
+				"winner": "Barry Hawkins",
+				"tournamentLogo": "758e77f0-aaf3-11ee-94d0-9180f04b2a8b.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "betvictoreuropeanmasters",
+				"matchCount": 71
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/285819b4-20bd-401e-9757-789f5f5e5667"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "fdce8ea6-6fb5-4865-b864-a6ac54be876d",
+			"attributes": {
+				"name": "Wuhan Open 2023 Qualifiers",
+				"startDate": "2023-09-01",
+				"endDate": "2023-09-05",
+				"venue": null,
+				"city": "Leicester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": null,
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "wuhanopen",
+				"matchCount": 56
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/fdce8ea6-6fb5-4865-b864-a6ac54be876d"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "6c30959e-8174-4bfe-91c0-ff9a01f33637",
+			"attributes": {
+				"name": "BetVictor English Open 2023 Qualifiers",
+				"startDate": "2023-09-06",
+				"endDate": "2023-09-08",
+				"venue": null,
+				"city": "Leicester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": null,
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "betvictorenglishopen",
+				"matchCount": 47
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/6c30959e-8174-4bfe-91c0-ff9a01f33637"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "752b0f37-fe20-4bfb-9888-ad5fe2afb4ee",
+			"attributes": {
+				"name": "Shanghai Masters 2023",
+				"startDate": "2023-09-11",
+				"endDate": "2023-09-17",
+				"venue": null,
+				"city": "Shanghai",
+				"country": "China ",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "b2cd3470-abe4-11ee-ae0b-d78ed17f25ae.jpg",
+				"winner": "Ronnie O'Sullivan",
+				"tournamentLogo": "25e22d40-aae0-11ee-be46-c9af1c37812b.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "shanghaimasters",
+				"matchCount": 23
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/752b0f37-fe20-4bfb-9888-ad5fe2afb4ee"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "7834c6c5-3486-4880-ab97-ab8f26486d68",
+			"attributes": {
+				"name": "International Championship 2023 Qualifiers",
+				"startDate": "2023-09-18",
+				"endDate": "2023-09-23",
+				"venue": null,
+				"city": "Sheffield",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "98e0bc90-ab07-11ee-af50-ef57ad38375f.jpg",
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "internationalchampionship",
+				"matchCount": 57
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/7834c6c5-3486-4880-ab97-ab8f26486d68"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "1f4875b6-fe96-436c-af0d-6b8beeca188a",
+			"attributes": {
+				"name": "Cazoo British Open 2023",
+				"startDate": "2023-09-25",
+				"endDate": "2023-10-01",
+				"venue": null,
+				"city": "Cheltenham",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "b306bb00-abe4-11ee-9c0c-f54c198c99ff.jpg",
+				"winner": "Mark Williams",
+				"tournamentLogo": "33a47970-aadf-11ee-be46-c9af1c37812b.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "cazoobritishopen",
+				"matchCount": 79
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/1f4875b6-fe96-436c-af0d-6b8beeca188a"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "413bbe5d-f405-4338-be07-6ba1e8662906",
+			"attributes": {
+				"name": "BetVictor English Open 2023",
+				"startDate": "2023-10-02",
+				"endDate": "2023-10-08",
+				"venue": null,
+				"city": "Brentwood",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "f5dc6a50-a98d-11ee-9cd7-2d6922d442c5.png",
+				"winner": "Judd Trump",
+				"tournamentLogo": "92c8ac70-aa29-11ee-970b-9bc06b4560ee.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "betvictorenglishopen",
+				"matchCount": 81
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/413bbe5d-f405-4338-be07-6ba1e8662906"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "d3ee05aa-2f86-4816-9864-36f3e0dd6107",
+			"attributes": {
+				"name": "Wuhan Open 2023",
+				"startDate": "2023-10-09",
+				"endDate": "2023-10-15",
+				"venue": null,
+				"city": "Wuhan",
+				"country": "China ",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "b3047110-abe4-11ee-aca9-65bf2e3ec0a4.jpg",
+				"winner": "Judd Trump",
+				"tournamentLogo": "713ccbb0-aae0-11ee-be46-c9af1c37812b.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "wuhanopen",
+				"matchCount": 68
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/d3ee05aa-2f86-4816-9864-36f3e0dd6107"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "03121c08-9981-4d21-89e2-6f70e8ae5965",
+			"attributes": {
+				"name": "BetVictor Northern Ireland Open 2023 Qualifiers",
+				"startDate": "2023-10-17",
+				"endDate": "2023-10-20",
+				"venue": null,
+				"city": "Sheffield",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": null,
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "/betvictornorthernirelandopen",
+				"matchCount": 46
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/03121c08-9981-4d21-89e2-6f70e8ae5965"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "30e8b616-133c-4d85-a279-b5b304d2b399",
+			"attributes": {
+				"name": "BetVictor Northern Ireland Open 2023",
+				"startDate": "2023-10-22",
+				"endDate": "2023-10-29",
+				"venue": null,
+				"city": "Belfast",
+				"country": "Northern Ireland",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "0197f2d0-9f41-11ee-8f54-7f69ca3519f3.png",
+				"winner": "Judd Trump",
+				"tournamentLogo": "0a1d0120-aa2c-11ee-bf18-adabd7083ad0.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "/betvictornorthernirelandopen",
+				"matchCount": 81
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/30e8b616-133c-4d85-a279-b5b304d2b399"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "4ef0985b-08c8-4ed4-94a1-f1c9a186f999",
+			"attributes": {
+				"name": "BetVictor Scottish Open 2023 Qualifiers",
+				"startDate": "2023-10-30",
+				"endDate": "2023-11-02",
+				"venue": null,
+				"city": "Leicester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": null,
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "betvictorscottishopen",
+				"matchCount": 46
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/4ef0985b-08c8-4ed4-94a1-f1c9a186f999"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "b0633f53-973e-4324-a203-b1be7c89d519",
+			"attributes": {
+				"name": "International Championship 2023",
+				"startDate": "2023-11-05",
+				"endDate": "2023-11-12",
+				"venue": null,
+				"city": "Tianjin City",
+				"country": "China ",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "98e0bc90-ab07-11ee-af50-ef57ad38375f.jpg",
+				"winner": "Zhang Anda",
+				"tournamentLogo": "9aa64180-aadf-11ee-b6a7-cf4194f6c0f1.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "internationalchampionship",
+				"matchCount": 71
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/b0633f53-973e-4324-a203-b1be7c89d519"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "1ba5b9aa-d220-45c4-bf7c-eb7284bf699a",
+			"attributes": {
+				"name": "Champion of Champions 2023",
+				"startDate": "2023-11-13",
+				"endDate": "2023-11-19",
+				"venue": null,
+				"city": "Bolton",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": null,
+				"winner": "Mark Allen",
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "https://championofchampionssnooker.co.uk/",
+				"matchCount": 15
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/1ba5b9aa-d220-45c4-bf7c-eb7284bf699a"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "9c4c0551-d3be-4c5e-8d81-4e3ec5f0a93e",
+			"attributes": {
+				"name": "MrQ UK Championship 2023 Qualifiers",
+				"startDate": "2023-11-18",
+				"endDate": "2023-11-23",
+				"venue": null,
+				"city": "Leicester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": null,
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "mrqukchampionship",
+				"matchCount": 112
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/9c4c0551-d3be-4c5e-8d81-4e3ec5f0a93e"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "ab35eede-c84d-4d80-a44e-93642e2f7e68",
+			"attributes": {
+				"name": "MrQ UK Championship 2023",
+				"startDate": "2023-11-25",
+				"endDate": "2023-12-03",
+				"venue": null,
+				"city": "York",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": null,
+				"winner": "Ronnie O'Sullivan",
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "mrqukchampionship",
+				"matchCount": 31
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/ab35eede-c84d-4d80-a44e-93642e2f7e68"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "01b2b258-5ef3-4814-a72d-174c2158df7e",
+			"attributes": {
+				"name": "BetVictor Shoot Out 2023",
+				"startDate": "2023-12-06",
+				"endDate": "2023-12-09",
+				"venue": null,
+				"city": "Swansea",
+				"country": "Wales",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "30913d90-abb1-11ee-baf1-15bf78f37782.jpg",
+				"winner": "Mark Allen",
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "betvictorshootout",
+				"matchCount": 127
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/01b2b258-5ef3-4814-a72d-174c2158df7e"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "c2670f46-8d7b-4992-9e35-366651473643",
+			"attributes": {
+				"name": "BetVictor Scottish Open 2023",
+				"startDate": "2023-12-11",
+				"endDate": "2023-12-17",
+				"venue": null,
+				"city": "Edinburgh",
+				"country": "Scotland",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "30aa1cc0-abb1-11ee-99b6-0de12f1089a8.jpg",
+				"winner": "Gary Wilson",
+				"tournamentLogo": "9e527c70-aae6-11ee-ab80-1fd7eba633f1.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "betvictorscottishopen",
+				"matchCount": 80
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/c2670f46-8d7b-4992-9e35-366651473643"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "9a46ec91-0c5f-423a-a07a-e712cf2661a7",
+			"attributes": {
+				"name": "BetVictor German Masters 2024 Qualifiers",
+				"startDate": "2023-12-18",
+				"endDate": "2023-12-22",
+				"venue": null,
+				"city": "Sheffield",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "eb3d8450-aa35-11ee-8187-a31c49bdbea1.jpg",
+				"winner": null,
+				"tournamentLogo": "aace9f20-ab08-11ee-a329-897289ffa460.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "https://google.co.uk",
+				"matchCount": 56
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/9a46ec91-0c5f-423a-a07a-e712cf2661a7"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "d847990d-78d2-44f1-bfc2-da131eebb817",
+			"attributes": {
+				"name": "BetVictor Championship League Group 1",
+				"startDate": "2024-01-02",
+				"endDate": "2024-01-03",
+				"venue": null,
+				"city": "Leicester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "21f5de70-ab0d-11ee-b19f-91b2c89795d8.png",
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "https://championshipleaguesnooker.co.uk/invitational/",
+				"matchCount": 24
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/d847990d-78d2-44f1-bfc2-da131eebb817"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "15879894-572f-4854-bfa5-686bc69b8303",
+			"attributes": {
+				"name": "BetVictor Championship League Group 2",
+				"startDate": "2024-01-04",
+				"endDate": "2024-01-05",
+				"venue": null,
+				"city": "Leicester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "22008cd0-ab0d-11ee-96d3-c30e4b41f717.png",
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "https://championshipleaguesnooker.co.uk/",
+				"matchCount": 24
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/15879894-572f-4854-bfa5-686bc69b8303"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "5ef109fb-0a70-414a-b314-17a822590d96",
+			"attributes": {
+				"name": "MrQ Masters 2024",
+				"startDate": "2024-01-07",
+				"endDate": "2024-01-14",
+				"venue": null,
+				"city": "London",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": "/tickets/masterstickets2024",
+				"tournamentListingImage": "f7acb4c0-a951-11ee-876f-636539420d2b.jpg",
+				"winner": null,
+				"tournamentLogo": "2a6056d0-aaea-11ee-b813-290c58e3307a.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "/themasters",
+				"matchCount": 8
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/5ef109fb-0a70-414a-b314-17a822590d96"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "e78c109e-91ae-43df-87f8-eb892870fdf9",
+			"attributes": {
+				"name": "World Grand Prix 2024",
+				"startDate": "2024-01-15",
+				"endDate": "2024-01-21",
+				"venue": null,
+				"city": "Leicester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": "/tickets/worldgrandprix-tickets-2024",
+				"tournamentListingImage": "e413cb60-a97e-11ee-b53a-b1e3b2b70608.jpg",
+				"winner": null,
+				"tournamentLogo": "1727f4d0-9f62-11ee-9f99-37d8b39d1143.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "/worldgrandprix",
+				"matchCount": 16
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/e78c109e-91ae-43df-87f8-eb892870fdf9"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "f44b0218-fd88-40a9-9788-063e5a5fee23",
+			"attributes": {
+				"name": "World Open 2024 Qualifiers",
+				"startDate": "2024-01-22",
+				"endDate": "2024-01-24",
+				"venue": null,
+				"city": "Barnsley",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "1c96f0d0-ab0e-11ee-96d3-c30e4b41f717.jpg",
+				"winner": null,
+				"tournamentLogo": "8b22f450-aaf4-11ee-a16d-59f676f827b8.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "/worldopen",
+				"matchCount": 57
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/f44b0218-fd88-40a9-9788-063e5a5fee23"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "945bd9c0-cf6d-4f4c-bdcb-76e07576e120",
+			"attributes": {
+				"name": "BetVictor Welsh Open 2024 Qualifiers",
+				"startDate": "2024-01-25",
+				"endDate": "2024-01-27",
+				"venue": null,
+				"city": "Barnsley",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "1c8e8c60-ab0e-11ee-986c-e7b0a84e7ea8.jpg",
+				"winner": null,
+				"tournamentLogo": "2c525a80-aa34-11ee-a57c-79f0e2392cfd.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "/betvictorwelshopen",
+				"matchCount": 47
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/945bd9c0-cf6d-4f4c-bdcb-76e07576e120"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "0559acb8-aaea-462d-95ef-88c9a4af730f",
+			"attributes": {
+				"name": "BetVictor German Masters 2024",
+				"startDate": "2024-01-29",
+				"endDate": "2024-02-04",
+				"venue": null,
+				"city": "Berlin",
+				"country": "Germany ",
+				"continent": "Europe",
+				"ticketingLink": "/tickets/betvictor-germanmasters-2024-tickets",
+				"tournamentListingImage": "eb3d8450-aa35-11ee-8187-a31c49bdbea1.jpg",
+				"winner": null,
+				"tournamentLogo": "45ecfce0-9f60-11ee-9749-d310a6483dcb.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "/betvictorgermanmasters",
+				"matchCount": 32
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/0559acb8-aaea-462d-95ef-88c9a4af730f"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "a38a3b90-2f62-4c44-881a-c9f7b8cb7398",
+			"attributes": {
+				"name": "BetVictor Championship League Group 3",
+				"startDate": "2024-02-05",
+				"endDate": "2024-02-06",
+				"venue": null,
+				"city": "Leicester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "21e19320-ab0d-11ee-9eb3-cf036f05c9f9.png",
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "https://championshipleaguesnooker.co.uk/",
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/a38a3b90-2f62-4c44-881a-c9f7b8cb7398"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "91cae96b-2fea-44be-aabc-ab37ded524be",
+			"attributes": {
+				"name": "BetVictor Championship League Group 4",
+				"startDate": "2024-02-07",
+				"endDate": "2024-02-08",
+				"venue": null,
+				"city": "Leicester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "21f36d70-ab0d-11ee-bb40-7999b696fbec.png",
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "https://championshipleaguesnooker.co.uk/",
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/91cae96b-2fea-44be-aabc-ab37ded524be"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "2f028d19-a5cc-40c9-8509-eb9b7a1704b7",
+			"attributes": {
+				"name": "BetVictor Championship League Group 5",
+				"startDate": "2024-02-09",
+				"endDate": "2024-02-10",
+				"venue": null,
+				"city": "Leicester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "21ed52f0-ab0d-11ee-98ed-ef9c7605d6a0.png",
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "https://championshipleaguesnooker.co.uk/",
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/2f028d19-a5cc-40c9-8509-eb9b7a1704b7"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "30d93869-b9d6-4efc-896e-24f3995f6edf",
+			"attributes": {
+				"name": "BetVictor Welsh Open 2024",
+				"startDate": "2024-02-12",
+				"endDate": "2024-02-18",
+				"venue": null,
+				"city": "Llandudno",
+				"country": "Wales",
+				"continent": "Europe",
+				"ticketingLink": "/tickets/welshopen-2024-tickets",
+				"tournamentListingImage": "eaf3aa10-aa35-11ee-9108-ab9960965956.jpg",
+				"winner": null,
+				"tournamentLogo": "b7478700-aa39-11ee-b78a-090e93cde4e0.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "/betvictorwelshopen",
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/30d93869-b9d6-4efc-896e-24f3995f6edf"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "8912a65a-3537-4a45-b3f5-648f668df136",
+			"attributes": {
+				"name": "Players Championship 2024",
+				"startDate": "2024-02-19",
+				"endDate": "2024-02-25",
+				"venue": null,
+				"city": "Telford",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": "/tickets/players-championship-2024-tickets",
+				"tournamentListingImage": "743530a0-9f5a-11ee-b065-db5190389194.png",
+				"winner": null,
+				"tournamentLogo": "2b1c4520-aa2c-11ee-bf18-adabd7083ad0.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "/playerschampionship",
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/8912a65a-3537-4a45-b3f5-648f668df136"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "34ee3927-878f-47a9-8f02-6da402f39615",
+			"attributes": {
+				"name": "BetVictor Championship League Group 6",
+				"startDate": "2024-02-26",
+				"endDate": "2024-02-27",
+				"venue": null,
+				"city": "Leicester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "21fa2430-ab0d-11ee-afcc-932a8cdbcd96.png",
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "https://championshipleaguesnooker.co.uk/",
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/34ee3927-878f-47a9-8f02-6da402f39615"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "fd93aac9-2200-467d-a4b0-75110b982f16",
+			"attributes": {
+				"name": "BetVictor Championship League Group 7",
+				"startDate": "2024-02-28",
+				"endDate": "2024-02-29",
+				"venue": null,
+				"city": "Leicester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "21f9d610-ab0d-11ee-a5f6-0f8f0482d171.png",
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "https://championshipleaguesnooker.co.uk/",
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/fd93aac9-2200-467d-a4b0-75110b982f16"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "b1c43602-599a-4d89-a527-730f58c76fad",
+			"attributes": {
+				"name": "BetVictor Championship League Winners Group",
+				"startDate": "2024-03-01",
+				"endDate": "2024-03-02",
+				"venue": null,
+				"city": "Leicester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "9038afb0-ab0e-11ee-96d3-c30e4b41f717.png",
+				"winner": null,
+				"tournamentLogo": null,
+				"tournamentBackgroundOverride": null,
+				"informationPage": "https://championshipleaguesnooker.co.uk/",
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/b1c43602-599a-4d89-a527-730f58c76fad"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "af7883a1-3b47-433e-a19f-20c84b01b8be",
+			"attributes": {
+				"name": "World Open 2024",
+				"startDate": "2024-03-18",
+				"endDate": "2024-03-24",
+				"venue": null,
+				"city": "Yushan, Jiangxi Province",
+				"country": "China ",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "98dc4fc0-ab07-11ee-bc46-e1c5bdba9282.jpg",
+				"winner": null,
+				"tournamentLogo": "6d74f3b0-aa2f-11ee-ad1f-97e9005bd3f1.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "/worldopen",
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/af7883a1-3b47-433e-a19f-20c84b01b8be"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "1da19a99-324e-4e9f-8955-abe0095f5895",
+			"attributes": {
+				"name": "World Mixed Doubles 2024",
+				"startDate": "2024-03-30",
+				"endDate": "2024-03-31",
+				"venue": null,
+				"city": "Manchester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": "/tickets/mixed-doubles-2024-tickets",
+				"tournamentListingImage": "66adbd40-ab11-11ee-92d1-3b64df44e086.jpg",
+				"winner": null,
+				"tournamentLogo": "eeea71a0-aa33-11ee-a57c-79f0e2392cfd.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "/worldmixeddoubles",
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/1da19a99-324e-4e9f-8955-abe0095f5895"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "beee4629-7aac-4dfa-bcf3-0a1d48fd6c05",
+			"attributes": {
+				"name": "Tour Championship 2024",
+				"startDate": "2024-04-01",
+				"endDate": "2024-04-07",
+				"venue": null,
+				"city": "Manchester",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": "/tickets/tour-championship-2024-tickets",
+				"tournamentListingImage": "eb0ab480-aa35-11ee-b4fb-85ccc574c2d7.jpg",
+				"winner": null,
+				"tournamentLogo": "85bfda50-aa2c-11ee-b60d-f7c983d3b6a7.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "/tourchampionship",
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/beee4629-7aac-4dfa-bcf3-0a1d48fd6c05"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "ede4ad40-dc62-44e5-83a0-cd9c48c44979",
+			"attributes": {
+				"name": "Cazoo World Championship 2024 Qualifiers",
+				"startDate": "2024-04-08",
+				"endDate": "2024-04-17",
+				"venue": null,
+				"city": "Sheffield",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": null,
+				"tournamentListingImage": "1c96c9c0-ab0e-11ee-a5f6-0f8f0482d171.jpg",
+				"winner": null,
+				"tournamentLogo": "edd0dd90-aa2e-11ee-ad1f-97e9005bd3f1.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "/cazooworldchampionship",
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/ede4ad40-dc62-44e5-83a0-cd9c48c44979"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "826cc9bf-2c3d-4171-a3eb-1c6588816e58",
+			"attributes": {
+				"name": "Cazoo World Championship 2024",
+				"startDate": "2024-04-20",
+				"endDate": "2024-05-06",
+				"venue": null,
+				"city": "Sheffield",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": "/tickets/world-championship-2024-tickets",
+				"tournamentListingImage": "8435f230-a64b-11ee-9250-27702f4244ad.png",
+				"winner": null,
+				"tournamentLogo": "0d368b40-aa2e-11ee-bf18-adabd7083ad0.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": "/cazooworldchampionship",
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/826cc9bf-2c3d-4171-a3eb-1c6588816e58"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "7d28cf15-e10c-46a8-9e98-0459642d6abf",
+			"attributes": {
+				"name": "English Open 2024",
+				"startDate": "2024-09-16",
+				"endDate": "2024-09-22",
+				"venue": null,
+				"city": "Brentwood",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": "/tickets/english-open-2024-tickets",
+				"tournamentListingImage": "9d0a2c50-a0d2-11ee-8084-8bf88b24c5f9.png",
+				"winner": null,
+				"tournamentLogo": "b4638240-aa2b-11ee-bf18-adabd7083ad0.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": null,
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/7d28cf15-e10c-46a8-9e98-0459642d6abf"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "28c6c498-ed74-448e-abae-aeac36ad9c5d",
+			"attributes": {
+				"name": "British Open 2024",
+				"startDate": "2024-09-23",
+				"endDate": "2024-09-29",
+				"venue": null,
+				"city": "Cheltenham",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": "/tickets/british-open-2024-tickets",
+				"tournamentListingImage": "96f5ede0-a0d2-11ee-8084-8bf88b24c5f9.png",
+				"winner": null,
+				"tournamentLogo": "f4b29860-aae2-11ee-841f-43df85345cea.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": null,
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/28c6c498-ed74-448e-abae-aeac36ad9c5d"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "a4cfd3cf-6880-45b4-bf88-457d7b4b72a6",
+			"attributes": {
+				"name": "Northern Ireland Open 2024",
+				"startDate": "2024-10-20",
+				"endDate": "2024-10-27",
+				"venue": null,
+				"city": "Belfast",
+				"country": "Northern Ireland",
+				"continent": "Europe",
+				"ticketingLink": "/tickets/northern-ireland-open-2024-tickets",
+				"tournamentListingImage": "a39bd820-a0d2-11ee-8084-8bf88b24c5f9.png",
+				"winner": null,
+				"tournamentLogo": "0a1d0120-aa2c-11ee-bf18-adabd7083ad0.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": null,
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/a4cfd3cf-6880-45b4-bf88-457d7b4b72a6"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "53747511-365e-4338-b7d8-c6de2854be7b",
+			"attributes": {
+				"name": "UK Championship 2024",
+				"startDate": "2024-11-23",
+				"endDate": "2024-12-01",
+				"venue": null,
+				"city": "York",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": "/tickets/uk-championship-2024-tickets",
+				"tournamentListingImage": "a8e4d750-a0d2-11ee-8084-8bf88b24c5f9.png",
+				"winner": null,
+				"tournamentLogo": "0c6aa530-aa2d-11ee-bf18-adabd7083ad0.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": null,
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/53747511-365e-4338-b7d8-c6de2854be7b"
+			}
+		},
+		{
+			"type": "tournament",
+			"id": "63fc406c-916d-4792-aee9-ca02d3a9cc32",
+			"attributes": {
+				"name": "The Masters 2025",
+				"startDate": "2025-01-12",
+				"endDate": "2025-01-19",
+				"venue": null,
+				"city": "London",
+				"country": "England",
+				"continent": "Europe",
+				"ticketingLink": "/tickets/masters-tickets-2025",
+				"tournamentListingImage": null,
+				"winner": null,
+				"tournamentLogo": "7a7cc740-aae3-11ee-b6a7-cf4194f6c0f1.png",
+				"tournamentBackgroundOverride": null,
+				"informationPage": null,
+				"matchCount": 0
+			},
+			"links": {
+				"self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2/63fc406c-916d-4792-aee9-ca02d3a9cc32"
+			}
+		}
+	],
+	"meta": { "totalCount": 47, "count": 47 },
+	"links": { "self": "https://tournaments.snooker.web.gc.wstservices.co.uk/v2" }
+}
