@@ -1,6 +1,6 @@
 use std::io::BufRead;
 
-use google_calendar::{types::{OrderBy, CalendarListEntry}, AccessToken, Client, ClientError, calendar_list::CalendarList};
+use google_calendar::{types::{OrderBy, CalendarListEntry}, AccessToken, Client, ClientError};
 use tokio::runtime::Runtime;
 
 pub use google_calendar::types::Event;
