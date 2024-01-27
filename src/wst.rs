@@ -2,7 +2,7 @@ use serde_with::serde_as;
 
 use chrono::{NaiveDate, NaiveDateTime};
 use reqwest::Error as ReqwestError;
-use serde::{Deserialize, Serialize, Deserializer};
+use serde::{Deserialize, Deserializer, Serialize};
 
 #[derive(Serialize, Deserialize, Debug, Clone)]
 pub struct Tournament {
@@ -47,7 +47,7 @@ pub struct Match {
     pub round: String,
     #[serde(rename = "startDateTime")]
     #[serde(deserialize_with = "naive_date_time_from_str")]
-    pub start_date_time: NaiveDateTime,
+    pub start_date_time: Option<NaiveDateTime>,
     pub status: String,
     #[serde(rename = "tournamentID")]
     pub tournament_id: String,
@@ -59,7 +59,7 @@ pub struct Player {
     pub id: String,
     #[serde(rename = "countryCode")]
     pub country_code: String,
-    pub dob: NaiveDate,
+    pub dob: Option<NaiveDate>,
     #[serde(rename = "firstName")]
     pub first_name: String,
     #[serde(rename = "middleName")]
@@ -97,7 +97,11 @@ impl From<serde_json::Error> for Error {
 
 impl<'a> From<serde_path_to_error::Error<serde_json::Error>> for Error {
     fn from(error: serde_path_to_error::Error<serde_json::Error>) -> Self {
-        Error::Json(format!("{} {}", error.to_string(), error.path().to_string()))
+        Error::Json(format!(
+            "{} {}",
+            error.to_string(),
+            error.path().to_string()
+        ))
     }
 }
 
@@ -162,14 +166,15 @@ pub struct Links {
 impl Client {
     pub fn new() -> Self {
         Self {
-            reqwest: reqwest::blocking::Client::builder()
-                .build()
-                .unwrap(),
+            reqwest: reqwest::blocking::Client::builder().build().unwrap(),
         }
     }
 
     pub fn get_tournaments(&self) -> Result<Vec<TournamentStub>, Error> {
-        let result = self.reqwest.get("https://tournaments.snooker.web.gc.wstservices.co.uk/v2").send()?;
+        let result = self
+            .reqwest
+            .get("https://tournaments.snooker.web.gc.wstservices.co.uk/v2")
+            .send()?;
         let result = result.text()?;
         Ok(deserialize::<TournamentsResponse>(&result)?.data)
     }
@@ -183,6 +188,7 @@ impl Client {
             ))
             .send()?;
         let result = result.text()?;
+        println!("{}", &result);
         Ok(deserialize::<TournamentResponse>(&result)?.data.attributes)
     }
 }
@@ -198,11 +204,15 @@ where
     result.map_err(|e| e.into())
 }
 
-fn naive_date_time_from_str<'de, D>(deserializer: D) -> Result<NaiveDateTime, D::Error>
+fn naive_date_time_from_str<'de, D>(deserializer: D) -> Result<Option<NaiveDateTime>, D::Error>
 where
     D: Deserializer<'de>,
 {
-    let s: String = Deserialize::deserialize(deserializer)?;
-    NaiveDateTime::parse_from_str(&s, "%Y-%m-%d %H:%M:%S").map_err(serde::de::Error::custom)
+    let s: Option<String> = Deserialize::deserialize(deserializer)?;
+    match s {
+        Some(s) => NaiveDateTime::parse_from_str(&s, "%Y-%m-%d %H:%M:%S")
+            .map(|s| Some(s))
+            .map_err(serde::de::Error::custom),
+        None => Ok(None),
+    }
 }
-

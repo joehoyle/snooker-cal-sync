@@ -1,6 +1,6 @@
 use std::io::BufRead;
 
-use google_calendar::{types::OrderBy, AccessToken, Client, ClientError};
+use google_calendar::{types::{OrderBy, CalendarListEntry}, AccessToken, Client, ClientError, calendar_list::CalendarList};
 use tokio::runtime::Runtime;
 
 pub use google_calendar::types::Event;
@@ -12,7 +12,7 @@ pub fn client() -> Client {
             std::env::var("GOOGLE_CAL_API_CLIENT_ID").unwrap(),
             std::env::var("GOOGLE_CAL_API_CLIENT_SECRET").unwrap(),
             std::env::var("GOOGLE_CAL_API_REDIRECT_URI").unwrap(),
-            std::env::var("GOOGLE_CAL_API_ACCESS_TOKEN").unwrap(),
+            "adawdwd",
             std::env::var("GOOGLE_CAL_API_REFRESH_TOKEN").unwrap(),
         );
         let token = client.refresh_access_token().await.unwrap();
@@ -46,6 +46,15 @@ pub fn get_events(calendar_id: &str, q: &str, client: &Client) -> Result<Vec<Eve
     })
     .map(|e| e.body)
 }
+
+pub fn get_calenders(client: &Client) -> Result<Vec<CalendarListEntry>, ClientError> {
+    let rt = Runtime::new().unwrap();
+    rt.block_on(async move {
+        client.calendar_list().list_all(google_calendar::types::MinAccessRole::Writer, false, true).await
+    })
+    .map(|e| e.body)
+}
+
 pub fn upsert_event(
     calendar_id: &str,
     event: &Event,
@@ -124,6 +133,8 @@ pub fn get_access_token() -> Result<AccessToken, ClientError> {
     let url = client.user_consent_url(&[
         "https://www.googleapis.com/auth/calendar.events".to_owned(),
         "https://www.googleapis.com/auth/calendar".to_owned(),
+        "https://www.googleapis.com/auth/calendar".to_owned(),
+        "https://www.googleapis.com/auth/calendar.calendarlist.readonly".to_owned(),
     ]);
     println!("Go to URL {}", url);
 
